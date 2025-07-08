@@ -239,3 +239,10 @@ static/                 # Django collected static files (if generated)
 media/                  # User-uploaded files (if applicable)
 *.sqlite3               # Catch-all for any SQLite databases
 *.sql                   # SQL dump files
+
+
+##########################################
+# 🔒 Sensitive Documentation (Local Only)
+##########################################
+
+docs_sensitive/          # Contains drafts or private documentation not meant for GitHub
